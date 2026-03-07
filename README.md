@@ -1,23 +1,22 @@
-# Cloud Computing & DevOps - Task 1: Host a Static Portfolio on AWS S3 + Serve via CloudFront (HTTPS)
+# Cloud Computing & DevOps - Task 1
 
-## Project Links
-* **GitHub Repository:** https://github.com/tejasskamble/aws-static-portfolio.git
-* **Secure Hosted URL (CloudFront):** https://dbpsh2mnll87w.cloudfront.net/
-* **S3 Bucket Endpoint:** http://tejas-task1-portfolio.s3-website.ap-south-1.amazonaws.com/
+[cite_start]**Objective:** Host a Static Portfolio on AWS S3 + Serve via CloudFront (HTTPS)[cite: 6].
 
-## Objective
-[cite_start]To build a responsive single-page portfolio and host it on AWS S3, secured with CloudFront (HTTPS)[cite: 9, 20].
+## Project Links & Deliverables
+* [cite_start]**GitHub Repository:** https://github.com/tejasskamble/aws-static-portfolio.git [cite: 25]
+* [cite_start]**Secure Hosted URL (CloudFront):** https://dbpsh2mnll87w.cloudfront.net/ [cite: 26]
+* [cite_start]**S3 Bucket Endpoint:** http://tejas-task1-portfolio.s3-website.ap-south-1.amazonaws.com/ [cite: 26]
+* [cite_start]**Screenshots:** S3 Bucket Policy & CloudFront Distribution screenshots are included in the submission folder[cite: 27, 28].
 
-## Detailed Step-by-Step Execution
+---
 
-### Step 1: Local Web Development
-* Created a responsive single-page portfolio locally containing `index.html` and `styles.css`.
-* [cite_start]Included a Hero section with a CTA button, an About section, 3 Project cards, and a Contact footer[cite: 20, 22, 23].
-* [cite_start]Integrated Google Fonts and FontAwesome for typography and icons[cite: 21].
+## Step-by-Step Execution Summary
 
-### Step 2: Version Control (Git & GitHub)
-* [cite_start]Initialized a local Git repository to store code and show version history[cite: 17].
-* Executed the following commands to push the code to a public GitHub repository:
+### 1. Local Development & Git Version Control
+* [cite_start]Created a responsive single-page portfolio using `index.html` and `styles.css`[cite: 32].
+* [cite_start]Integrated Google Fonts and FontAwesome for UI enhancements[cite: 21].
+* [cite_start]Included a Hero section, 3 Project cards, and a Contact footer[cite: 22, 23].
+* [cite_start]Initialized a local Git repository and pushed the code to GitHub [cite: 17, 33] using the following commands:
   ```bash
   git init
   git add .
