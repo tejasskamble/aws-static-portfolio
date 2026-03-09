@@ -4,7 +4,7 @@
 
 ## Project Links & Deliverables
 * [cite_start]**GitHub Repository:** https://github.com/tejasskamble/aws-static-portfolio.git [cite: 25]
-* [cite_start]**Secure Hosted URL (CloudFront):** https://dbpsh2mnll87w.cloudfront.net/ [cite: 26]
+* [cite_start]**Secure Hosted URL (CloudFront):** https://d363jckj885tdv.cloudfront.net/ [cite: 26]
 * [cite_start]**S3 Bucket Endpoint:** http://tejas-task1-portfolio.s3-website.ap-south-1.amazonaws.com/ [cite: 26]
 * [cite_start]**Screenshots:** S3 Bucket Policy & CloudFront Distribution screenshots are included in the submission folder[cite: 27, 28].
 
